@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ucAZwVlrsdJSt5kWS6dJkQl5u1HpuwS+EXy9YEEkVk83u5LVAVHj5OKOQokIMlcDUhYu6XuCmGUdBj0ZDf6kcA==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\AccountContext\\AccountContext.Shared\\AccountContext.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Avell 1513\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

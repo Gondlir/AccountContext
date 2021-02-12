@@ -1,0 +1,12 @@
+C:\Dev\AccountContext\AccountContext.Shared\bin\Debug\net5.0\AccountContext.Shared.deps.json
+C:\Dev\AccountContext\AccountContext.Shared\bin\Debug\net5.0\AccountContext.Shared.dll
+C:\Dev\AccountContext\AccountContext.Shared\bin\Debug\net5.0\ref\AccountContext.Shared.dll
+C:\Dev\AccountContext\AccountContext.Shared\bin\Debug\net5.0\AccountContext.Shared.pdb
+C:\Dev\AccountContext\AccountContext.Shared\obj\Debug\net5.0\AccountContext.Shared.csprojAssemblyReference.cache
+C:\Dev\AccountContext\AccountContext.Shared\obj\Debug\net5.0\AccountContext.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\AccountContext\AccountContext.Shared\obj\Debug\net5.0\AccountContext.Shared.AssemblyInfoInputs.cache
+C:\Dev\AccountContext\AccountContext.Shared\obj\Debug\net5.0\AccountContext.Shared.AssemblyInfo.cs
+C:\Dev\AccountContext\AccountContext.Shared\obj\Debug\net5.0\AccountContext.Shared.csproj.CoreCompileInputs.cache
+C:\Dev\AccountContext\AccountContext.Shared\obj\Debug\net5.0\AccountContext.Shared.dll
+C:\Dev\AccountContext\AccountContext.Shared\obj\Debug\net5.0\ref\AccountContext.Shared.dll
+C:\Dev\AccountContext\AccountContext.Shared\obj\Debug\net5.0\AccountContext.Shared.pdb

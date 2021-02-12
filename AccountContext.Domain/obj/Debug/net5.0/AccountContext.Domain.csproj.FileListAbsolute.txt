@@ -1,0 +1,15 @@
+C:\Dev\AccountContext\AccountContext.Domain\bin\Debug\net5.0\AccountContext.Domain.deps.json
+C:\Dev\AccountContext\AccountContext.Domain\bin\Debug\net5.0\AccountContext.Domain.dll
+C:\Dev\AccountContext\AccountContext.Domain\bin\Debug\net5.0\ref\AccountContext.Domain.dll
+C:\Dev\AccountContext\AccountContext.Domain\bin\Debug\net5.0\AccountContext.Domain.pdb
+C:\Dev\AccountContext\AccountContext.Domain\obj\Debug\net5.0\AccountContext.Domain.csprojAssemblyReference.cache
+C:\Dev\AccountContext\AccountContext.Domain\obj\Debug\net5.0\AccountContext.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\AccountContext\AccountContext.Domain\obj\Debug\net5.0\AccountContext.Domain.AssemblyInfoInputs.cache
+C:\Dev\AccountContext\AccountContext.Domain\obj\Debug\net5.0\AccountContext.Domain.AssemblyInfo.cs
+C:\Dev\AccountContext\AccountContext.Domain\obj\Debug\net5.0\AccountContext.Domain.csproj.CoreCompileInputs.cache
+C:\Dev\AccountContext\AccountContext.Domain\obj\Debug\net5.0\AccountContext.Domain.dll
+C:\Dev\AccountContext\AccountContext.Domain\obj\Debug\net5.0\ref\AccountContext.Domain.dll
+C:\Dev\AccountContext\AccountContext.Domain\obj\Debug\net5.0\AccountContext.Domain.pdb
+C:\Dev\AccountContext\AccountContext.Domain\bin\Debug\net5.0\AccountContext.Shared.dll
+C:\Dev\AccountContext\AccountContext.Domain\bin\Debug\net5.0\AccountContext.Shared.pdb
+C:\Dev\AccountContext\AccountContext.Domain\obj\Debug\net5.0\AccountContext.Domain.csproj.CopyComplete
